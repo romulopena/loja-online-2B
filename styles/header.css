@@ -2,6 +2,7 @@
     width: 24px;
     height: 24px;
     background-image: url("../img/Menu.svg");
+    background-position: center;
     display:inline-block;
 
 
@@ -13,5 +14,6 @@
 }
 
 .container__imagem{
+
     
 }
